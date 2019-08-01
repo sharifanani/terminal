@@ -1,4 +1,6 @@
 # Welcome\! 
+#### This repository is a form from the original, just to play around with the new terminal
+I have one objective: can I get a prettier name to display on the tabs in less than 6 hours?
 #### This repository contains the source code for:
 
   * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701)
